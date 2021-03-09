@@ -6,8 +6,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=toeiisk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=toeiisk&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=toeiisk&repo=github-readme-stats)](https://github.com/toeiisk/github-readme-stats)
 </p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=toeiisk&repo=github-readme-stats)](https://github.com/toeiisk/github-readme-stats)
 
 <!--
 **toeiisk/toeiisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
