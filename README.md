@@ -12,7 +12,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Ux/Ui Designer and Frontend Developer <img src="https://media.giphy.com/media/lOfSzpPeMb9gF2OJ5O/giphy.gif" width="30"> from bkk.
+I am a Ux/Ui Designer and Frontend Developer from bkk.
 
 - :telescope: &nbsp; I’m working as a Web Design and sometimes contributing to frontend for building web applications.
 
