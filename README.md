@@ -37,5 +37,4 @@ I am a Ux/Ui Designer and Frontend Developer from bkk.
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=toeiisk&theme=vue)](https://git.io/streak-stats)
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=toeiisk&layout=compact&langs_count=8&theme=algolia"/>  
